@@ -1,8 +1,5 @@
 # VedGrow_GAI_01
 # Generative AI Internship Task 1 - Prompt Engineering Showcase
-# VedGrow_GAI_01 - Prompt Engineering Showcase
-
-## Generative AI Internship - Task 1
 
 **Submitted by:** Niharika Pyneni
 **Role:** Generative AI Intern
